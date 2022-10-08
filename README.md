@@ -1,3 +1,4 @@
 # Monkey_Program
 
-![image](https://user-images.githubusercontent.com/106431802/194723162-74257718-0531-4c46-9aed-af635dd590f8.png)
+![Soru1](https://user-images.githubusercontent.com/106431802/194723223-13a7a047-584e-410a-a65e-c613a6c78917.PNG)
+
